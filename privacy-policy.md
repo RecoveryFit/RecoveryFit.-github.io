@@ -1,4 +1,4 @@
-# RecoveryFit Privacy Policy
+RecoveryFit Privacy Policy
 
 Effective Date: January 2025
 Developer: RecoveryFit (owned by Clayton Stevens)
